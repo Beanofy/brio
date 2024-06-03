@@ -22,15 +22,15 @@
 
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
-  botInvite: "",
-  supportServer: "",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  ownerID: ["1002633245441146900", ""],
+  botInvite: "https://discord.com/oauth2/authorize?client_id=1042396919269429248&scope=bot&permissions=332892794064",
+  supportServer: "https://discord.gg/DKszM7pdV3",
+  mongodbURL: "mongodb+srv://brioss:gA4f0DCkoX4nqZyK@cluster0.z53moqt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  status: 'Brio',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
-  errorLog: "",
+  errorLog: "1246726577832591392",
 
 
   sponsor: {
